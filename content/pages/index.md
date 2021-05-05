@@ -67,7 +67,7 @@ sections:
           - Concept development
           - Brand implementation and management
           - Typography
-      - title: sdsds
+      - title: sdsds this does work!
         image: images/service-3.svg
         content: |-
           - Digital product design
