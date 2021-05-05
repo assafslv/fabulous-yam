@@ -16,6 +16,9 @@ sections:
         new_window: false
         no_follow: false
         type: action
+    title: >-
+      This is an Award Winning Agency Based in San Francisco and Focusing on
+      Digital, Identity, and Print Design.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
